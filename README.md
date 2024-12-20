@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Luke 👋
 
 ![Profile Picture](https://your-image-url.com/profile.jpg) <!-- Optional: Add your profile image URL -->
 
